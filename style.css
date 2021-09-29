@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    background-color: black;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: snow;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: snow;
+}
+
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    border-style: none;
+    background-color: gold;
+    color: black;
+    font-weight: 700;
+    padding: 1rem;
+}
